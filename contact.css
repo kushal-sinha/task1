@@ -96,6 +96,7 @@ textarea {
 @media (max-width: 768px) {
     .submit-btn {
         width: 100%;
+        float: none;
         text-align: center;
     }
 }
