@@ -5,9 +5,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    /* transition: all 0.4s ease; */
-   
-   
+    /* transition: all 0.4s ease */
+
+
 }
 
 
@@ -18,7 +18,7 @@
     --side-nav: #e2e3e6;
     --text-color: #FFF;
     --search-text: #010718;
-    
+
 }
 
 body {
@@ -621,6 +621,7 @@ button:hover .star-6 {
 .fil0 {
     fill: #FFFDEF
 }
+
 /* counter of rewards bla bla dashbord */
 .wrapperx {
     /* position:relative;
@@ -638,6 +639,7 @@ button:hover .star-6 {
     width: 100%;
     height: 400px;
 }
+
 .containerx {
     width: 41vmin;
     height: 43vmin;
@@ -651,10 +653,12 @@ button:hover .star-6 {
     background-color: #21242b;
 
 }
-.num1{
-     border-radius: 40px 0 0 40px;
+
+.num1 {
+    border-radius: 40px 0 0 40px;
 }
-.num2{
+
+.num2 {
     border-radius: 0 40px 40px 0;
 }
 
@@ -718,8 +722,9 @@ span.text {
         font-size: 8px;
     }
 }
+
 /* footer  */
-.footer1{ 
+.footer1 {
     margin-top: 34px;
     background-color: #25262a;
     display: flex;
@@ -729,13 +734,14 @@ span.text {
     justify-content: space-between;
 
 }
-.otheracc{
+
+.otheracc {
     display: flex;
     justify-content: space-between;
 }
 
 @media screen and (min-width: 768px) {
-    .otheracc{
+    .otheracc {
         width: 24%;
     }
 }
